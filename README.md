@@ -4,6 +4,7 @@
 
 [Watch the video](https://www.youtube.com/watch?v=9uH3N0tRMP4&feature=youtu.be)
 
+
 ### Installation
 
 1. Install the python bindings for Bullet by opening a terminal (usually **ctrl+t**) and running this commands:
@@ -22,3 +23,8 @@
   + In FreeCAD, [create a macro](https://www.freecadweb.org/wiki/Macros) and copy-paste the example.py code to the macro and save.
   + Run the macro and enjoy the magic.
 
+
+
+![](https://3.bp.blogspot.com/-czXYXqcaHzc/WQda0t2DBSI/AAAAAAAAC9Y/82hBj-WPhR4ip5x8ffAnoUMEHcFEOWoKACLcB/s400/mboxes.png)
+
+[Multiple boxes video](https://www.youtube.com/watch?v=Wc-4L5FDI48)
