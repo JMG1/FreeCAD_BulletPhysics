@@ -8,8 +8,10 @@
 ### Installation
 
 1. Install the python bindings for Bullet by opening a terminal (usually **ctrl+t**) and running this commands:
+  + **sudo apt-get install python-dev
   + **sudo apt-get install libbullet-dev**
   + **git clone https://github.com/20tab/pybulletphysics**
+  + **cd pybulletphysics**
   + **python setup.py install**
 
 2. Clone this repository:
